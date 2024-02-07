@@ -16,7 +16,7 @@ public class ArrayQuiz_01 {
 				int score = 0;
 				System.out.println(score);
 				score = score + 1;
-			
+			     
 				System.out.println(score);
 				score = score + 1;
 				System.out.println(score);

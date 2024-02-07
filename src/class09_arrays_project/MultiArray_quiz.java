@@ -19,7 +19,7 @@ public class MultiArray_quiz {
 		h = w;
 
 		w = h;
-
+                       
 		System.out.print ( h ) ;
 
 		System.out.print( w ) ;

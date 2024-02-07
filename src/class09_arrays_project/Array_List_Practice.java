@@ -21,7 +21,11 @@ public class Array_List_Practice {
 		cars.add("Ford");
 		cars.add("Mazda");
 		cars.add("Subaru");
-		
+		cars.add("Mercedes1");
+		cars.add("Ford1");
+		cars.add("Mazda1");
+		cars.add("Subaru1");
+		      
 		System.out.println(cars);
 		//Get the iterator
 		Iterator<String> It=cars.iterator();

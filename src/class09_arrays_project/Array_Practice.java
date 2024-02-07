@@ -3,7 +3,7 @@ package class09_arrays_project;
 public class Array_Practice {
 
 	public static void main(String[] args) {
-	/*	//Requirement: store some salaries in an Array
+		//Requirement: store some salaries in an Array
 		// 45.99, 40.00, 50.00, 60.50	
 		double [] salaries;
 		salaries = new double[6];		
@@ -23,7 +23,7 @@ public class Array_Practice {
 		for (int i = 0; i < salaries.length; i++) {
 			System.out.format("Salaries is :%.2f \n" , salaries[i]);
 			//System.out.format("The average is: %.3f", average);
-		}*/ 
+		} 
 		int[][] ages = new int[3][3];
 		ages[0][0]=41;
 		ages[0][1]=76;
